@@ -1,0 +1,58 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: futura;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-family: futura;
+    color: #373fff;
+    position: center;
+    text-align: center;
+    font-size: 200px;
+    vertical-align: middle;
+  }
+  h2{
+     font-family: futura;
+    color: #373fff;
+    position: center;
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+  }
+  h3{
+    font-family: futura;
+    font-size:20px;
+    
+  }
+  
+  h4{
+     font-family: futura;
+    font-size:20px;
+    
+  }
+  
+  h5{
+    font-family: futura;
+    font-size: 20px;
+  }
+  html, body, {
+      position:fixed;
+      top:0;
+      bottom:0;
+      left:0;
+    right:0;}
+  
+  p4 {
+    font-family: futura, italic;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:#373fff ;
+    text-align: center;
+  }
+  
+  
+  
